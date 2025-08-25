@@ -1,6 +1,6 @@
 ﻿**MosaicX: A Framework for Implicit-Model Partitioning and Data-Driven Dimensional Analysis**
 
-_MosaicX is an open framework that transforms complex physical models into piecewise interpretable structures. By combining Jacobian-based implicit-function evaluation, data-driven dimensional analysis, and graph-based knowledge aggregation, MosaicX enables scientists and engineers to:_
+_MosaicX is an open framework that transforms complex physical models into patch atlas (piecewise interpretable structures). By combining Jacobian-based implicit-function evaluation, data-driven dimensional analysis, and graph-based knowledge aggregation, MosaicX enables scientists and engineers to:_
 
 - **Partition** nonlinear systems into locally valid charts via Jacobian analysis.
 - **Discover** unique and relevant dimensionless groups from multi-source data.
@@ -23,3 +23,4 @@ Validation of self-similarity hypotheses using Jacobian-based partitioning and U
 Bridging theory and computation by embedding Barenblatt’s conceptual models into reproducible, data-driven workflows.
 
 Ultimately, this integration aims to advance the vision of a Machine Scientist that unifies theoretical reasoning with computational automation.
+
